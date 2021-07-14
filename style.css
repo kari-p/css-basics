@@ -1,0 +1,32 @@
+h1 {
+    color:red;
+    text-decoration: underline;
+}
+
+div {
+    border: 1px solid black;
+    margin: 5px;
+}
+    
+h2  {
+    color:black;
+    font: 20px;;
+    text-decoration: underline;
+}
+
+
+p   {
+    color: blue;
+}
+
+.basic-styling {
+                font-style: italic;
+}
+
+.green-text {
+            color: green;
+}
+
+.centered-text {
+            text-align: center;
+}
